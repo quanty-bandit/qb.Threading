@@ -1,5 +1,5 @@
 {
-  "name": "com.quanty-bandit.qb.threading",
+  "name": "com.quanty-bandit.threading",
   "version": "1.0.0",
   "displayName": "qb.Threading",
   "description": "Threading tools",
